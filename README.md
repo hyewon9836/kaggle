@@ -12,4 +12,5 @@
 ### 2nd level. Porto Seguro's Driver Prediction
 
 - Data Preparation & Exploration
-
+- Interactive Porto Insights - A Plot.ly Tutorial
+- 
