@@ -14,4 +14,8 @@
 - Data Preparation & Exploration
 - Interactive Porto Insights - A Plot.ly Tutorial
 - XGBoost CV (LB .284)
-- 
+- Porto Seguro Exploratory Analysis and Prediction
+
+### 3rd level. Home Credit Default Risk
+
+-
