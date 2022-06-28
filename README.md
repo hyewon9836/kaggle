@@ -19,4 +19,5 @@
 ### 3rd level. Home Credit Default Risk
 
 - Introduction: Home Credit Default Risk Competition -> Start Here: A Gentle Introduction
+- Introduction to Manual Feature Engineering
 - 
