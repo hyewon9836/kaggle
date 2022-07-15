@@ -21,4 +21,8 @@
 - Introduction: Home Credit Default Risk Competition -> Start Here: A Gentle Introduction
 - Introduction to Manual Feature Engineering
 - Stacking Test-SKlearn, XGBoost, CatBoost, LightGBM
+- LightGBM 7th place solution
+
+## Multi-class classification : Tabular data
+
 - 
