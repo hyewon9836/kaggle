@@ -28,4 +28,5 @@
 ### 1st level. Costa Rican Household Poverty Level Prediction
 
 - A Complete Introduction and Walkthrough
+- 3250feats->532 feats using shap[LB: 0.436]
 - 
